@@ -11,7 +11,10 @@ The game can be played in both command line interface and graphical user interfa
 * Specify number of players
 * Provide a file with a list of blocks that they want to play with
 
-![...](Text1.png) 
+![...](/Text1.PNG)
+![...](/Text2.PNG)
+![...](/Graphical1.PNG)
+![...](/Graphical2.PNG)
 
 # Design Patterns
 ### Factory Design Pattern
