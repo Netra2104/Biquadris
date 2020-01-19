@@ -1,5 +1,5 @@
 # Biquadris
-The game of biquadris was developed by Netra Mali, Khubi Shah, and Pari Shah as part of coursework. This game is another version of Tetris where the player has infinite time to make the next move. We added a bonus feature to the game by making it multi and well as single player.
+The game of biquadris was developed by Netra Mali, Khubi Shah, and Pari Shah as part of coursework. This game is another version of Tetris where the player has infinite time to make the next move. We added a bonus feature to the game by making it multiplayer and single player.
 
 # Built
 The game was built in C++ using Vim and Visual Studio. 
