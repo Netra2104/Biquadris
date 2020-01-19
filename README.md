@@ -4,9 +4,16 @@ The game of biquadris was developed by Netra Mali, Khubi Shah, and Pari Shah as 
 # Built
 The game was built in C++ using Vim and Visual Studio. 
 
+# Demo
+The game can be played in both command line interface and graphical user interface.
+* The user can specify level from 1 to 4
+* Choose a seed value to change the probability of the blocks being dropped
+* Specify number of players
+* Provide a file with a list of blocks that they want to play with
+
+![...](Text1.png) 
+
 # Design Patterns
-
-
 ### Factory Design Pattern
 The game uses the factory design pattern twice, once for the Level Class and once for the Block Class. 
 
