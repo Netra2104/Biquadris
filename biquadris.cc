@@ -61,8 +61,7 @@ int Biquadris::matchCommands(string &input) {
         int cmdLen = cmd.length();
 
         // finds the command that the user input matches with
-        for (int i = 0; i < length; i++) { 
-            
+        for (int i = 0; i < length; i++) {             
             for (int j = 0; j < cmdLen; j++) {
                 if (cmd[j] != commands[i][j]) {
                     match = false;
